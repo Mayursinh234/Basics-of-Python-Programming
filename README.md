@@ -5,4 +5,4 @@
 ### Basics of Python Programming Tutorial
 ### Python for Beginner
 
-## YouTube Video Link : 
+## YouTube Video Link : https://youtu.be/EjFot7McWho
